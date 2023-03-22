@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Жирные бургеры | Главная</title>
+        <title>Big Burgers | Главная</title>
         <meta name="title" content="Жирные бургеры"/>
       </Head>
       <div className={styles.container}>
