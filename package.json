@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "json-server": "json-server --watch db.json --port 5000",
-    "serve": "concurrently \"npm run dev\" \"npm run json-server\""
+    // "json-server": "json-server --watch db.json --port 3000",
+    // "serve": "concurrently \"npm run dev\" \"npm run json-server\""
   },
   "dependencies": {
     "next": "12.1.0",
